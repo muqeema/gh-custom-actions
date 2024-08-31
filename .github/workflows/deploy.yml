@@ -70,4 +70,4 @@ jobs:
         with:
           bucket: gha-custom-action-hosting-muq
           dist-folder: ./dist 
-          bucket-region: 
+          # bucket-region: 
